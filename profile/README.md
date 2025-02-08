@@ -1,4 +1,4 @@
-![Singulix Labs Banner](twitter_banner_singulix_updated.jpg)
+![Singulix Labs Banner](https://github.com/Singulix-Labs/.github/blob/2f137ca51a9fb406c4eb3690c41cace67b96289d/twitter_banner_singulix_updated.jpg)
 
 Welcome to Singulix Labs
 
