@@ -70,6 +70,6 @@ Singulix Labs is a **collaborative, open-source initiative**. Whether you're a d
 To stay informed and contribute to the future of AI-powered decentralization, connect with us:  
 
 - **Website:** [SingulixLabs.io](#)  
-- **Twitter:** [@SingulixLabs](#)  
+- **Twitter:** [@SingulixLabs](https://x.com/singulix_labs)  
 
 The integration of AI and blockchain is no longer theoretical—it is happening now. Join us in shaping the next generation of decentralized intelligence.  
