@@ -84,7 +84,7 @@ Singulix Labs is committed to being a **collaborative, open-source initiative**.
   
 - **Community Members**: Engage with us on forums, test our models, provide feedback, and be part of the discussion as we shape the future of decentralized intelligence.
 
-[Review our contribution guidelines to get started.](https://github.com/Singulix-Labs/)
+[Review our contribution guidelines to get started.](https://github.com/Singulix-Labs/VOKIR)
 
 ---
 
